@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/amritanshu23/" target="blank"><img align="center" src="chrome-search://ntpicon/?size=48@0.900000x&url=https://www.instagram.com/direct/inbox/"  height="30" width="40" /></a>
+<a href="https://www.instagram.com/amritanshu23/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-5.png"  height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/amritanshu23/" target="blank"><img align="center" src="https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Byx%2FYUar4SZejXJ0fckodzQ%3D%3D"  height="30" width="40" /></a>
 </p>
 
