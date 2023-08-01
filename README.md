@@ -7,17 +7,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackhat1314&label=Profile%20views&color=0e75b6&style=flat" alt="blackhat1314" /> </p>
 
-- 🌱 I’m currently learning **JavaScript and Node.js**
+- 🌱 I’m currently learning **JavaScript and JAVA**
 
 - 📫 How to reach me *shankarshubham23@gmail.com**
 
-- 📄 Know about my experiences [https://cutt.ly/w9NkXRx)
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1zCm0pap3W56Xjzsl_d1TPEyabJWgLurR/view?usp=sharing))
 
-- ⚡ Fun fact **I am Funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/mayankr59225597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mayankr59225597" height="30" width="40" /></a>
+<a href="https://www.instagram.com/amritanshu23/" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/instagram_174855?term=insta&page=1&position=1&origin=style&related_id=174855" alt="https://www.instagram.com/amritanshu23/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Amritanshu23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Amritanshu23" height="30" width="40" /></a>
 </p>
 
