@@ -11,7 +11,7 @@
 
 - 📫 How to reach me *shankarshubham23@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1wsDdiKKtpuGkF5yxNcRjFRd5j2lAZACf/view?usp=sharing">Click</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/146HCggtchPKXheDBHJjxN7PycAG7CWqG/view">Click</a>
 
 
 
@@ -22,7 +22,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.gwn9oBYFZQsSpvJfxCfAowAAAA?pid=ImgDet&rs=1" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://clipground.com/images/css-3-logo-clipart-4.png" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.sxgAuWLSIvPXh0cZ2bmQvgHaIj?pid=ImgDet&rs=1" alt="html5" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-on-yellow-11.png" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.K-4RqDC6zFrpAG31ayDDOgHaHa?pid=ImgDet&rs=1" alt="React JS" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://ih1.redbubble.net/image.1075465556.1060/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="C++" width="40" height="40"/> </a></p>
+<p align="left"> <a href="![image](https://github.com/Amritanshu2/Amritanshu2/assets/91659575/1c4af45e-a337-4b6e-84a7-52465327a024)
+" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.gwn9oBYFZQsSpvJfxCfAowAAAA?pid=ImgDet&rs=1" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://clipground.com/images/css-3-logo-clipart-4.png" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.sxgAuWLSIvPXh0cZ2bmQvgHaIj?pid=ImgDet&rs=1" alt="html5" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-on-yellow-11.png" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.K-4RqDC6zFrpAG31ayDDOgHaHa?pid=ImgDet&rs=1" alt="React JS" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://ih1.redbubble.net/image.1075465556.1060/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="C++" width="40" height="40"/> </a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amritanshu2&show_icons=true&locale=en&layout=compact" alt="Amritanshu2" /></p>
 
