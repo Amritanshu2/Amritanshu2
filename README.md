@@ -36,7 +36,7 @@
   <p>
     <a href="https://github.com/Amritanshu2/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amritanshu2's streak" src="https://github-readme-streak-stats-9m8ugfa77-amritanshu2.vercel.app/?user=Amritanshu2&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amritanshu2's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Amritanshu2&theme=monokai-metallian&hide_border=true"/>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
@@ -55,16 +55,7 @@
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Amritanshu2's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Amritanshu2&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <h3>⚡ Recent GitHub Activity</h3>
 
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#1115](https://github.com/Amritanshu2/custom-icon-badges/issues/1115) in [Amritanshu2/custom-icon-badges](https://github.com/Amritanshu2/custom-icon-badges)
-2. 🎉 Merged PR [#1136](https://github.com/Amritanshu2/custom-icon-badges/pull/1136) in [Amritanshu2/custom-icon-badges](https://github.com/Amritanshu2/custom-icon-badges)
-3. 🎉 Merged PR [#1134](https://github.com/Amritanshu2/custom-icon-badges/pull/1134) in [Amritanshu2/custom-icon-badges](https://github.com/Amritanshu2/custom-icon-badges)
-4. 🎉 Merged PR [#1135](https://github.com/Amritanshu2/custom-icon-badges/pull/1135) in [Amritanshu2/custom-icon-badges](https://github.com/Amritanshu2/custom-icon-badges)
-5. 🎉 Merged PR [#182](https://github.com/Amritanshu2/github-readme-youtube-cards/pull/182) in [Amritanshu2/github-readme-youtube-cards](https://github.com/Amritanshu2/github-readme-youtube-cards)
 <!--END_SECTION:activity-->
 
 </details>
