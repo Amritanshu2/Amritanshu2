@@ -10,9 +10,6 @@
   <a href="https://github.com/Amritanshu2">
     <img src="https://komarev.com/ghpvc/?username=Amritanshu2&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
   </a>
-  <a href="https://leetcode.com/Amritanshu23/">
-    <img src="https://img.shields.io/badge/LeetCode-1100%2B-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode problems"/>
-  </a>
   <a href="https://auth.geeksforgeeks.org/user/shankarshubham23/practice">
     <img src="https://img.shields.io/badge/GFG-300%2B-2d8a34?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="gfg problems"/>
   </a>
@@ -35,19 +32,16 @@
 
 ---
 
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-<br>
-
-- 💼 Previously a **Software Engineer Intern** at **EPAM Systems**.
-- 🌱 Diving deep into **Next.js, Microservices, and System Design**.
-- 🤖 Passionate about building AI-driven solutions like **IntraPrep** and full-stack platforms like **SMEConnectX**.
-- 💻 Solved **1100+ problems** on LeetCode and **300+** on GeeksforGeeks.
-- 💬 Ask me about **Java, MERN Stack, Data Structures & Algorithms**.
+- 💼 Ex **Software Engineer Intern** at **EPAM Systems**.  
+- 🌱 Learning **Next.js, Microservices, and System Design**.  
+- 🤖 Built **IntraPrep** (AI Interview Bot), **SMEConnectX**, and **FlexiRide**.  
+- 💬 Ask me about **Java, MERN Stack, Data Structures & Algorithms**.  
 
 ---
 
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px></picture> My Tech Stack
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"></picture> My Tech Stack
 
 <table width="100%">
   <tr>
@@ -74,7 +68,7 @@
 
 ---
 
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Projects.gif?raw=true" width = 50px></picture> Featured Projects
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Projects.gif?raw=true" width="50px"></picture> Featured Projects
 
 <table width="100%">
   <tr>
@@ -82,20 +76,20 @@
       <h3>🤖 IntraPrep: AI Interview Bot</h3>
       <p>An intelligent bot that simulates real-time interviews, provides feedback, and helps users prepare with personalized questions.</p>
       <div>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-        <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Gemini API"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
       </div>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 SMEConnectX: Career Platform</h3>
-      <p>A platform connecting students with Subject Matter Experts (SMEs) for mentorship, guidance, and career opportunities.</p>
+      <p>A platform connecting students with SMEs for mentorship, guidance, and career opportunities.</p>
       <div>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
       </div>
     </td>
   </tr>
@@ -104,28 +98,33 @@
       <h3>🚗 FlexiRide: Serverless Car Rental</h3>
       <p>A scalable, event-driven car rental system built on serverless architecture for high availability and cost efficiency.</p>
       <div>
-        <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="AWS Lambda"/>
-        <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-api-gateway&logoColor=white" alt="API Gateway"/>
-        <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB"/>
-        <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless"/>
+        <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
+        <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-api-gateway&logoColor=white" />
+        <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" />
       </div>
     </td>
-    <td width="50%" valign="top">
-      </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
 ---
 
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/github.gif?raw=true" width = 50px></picture> GitHub Statistics
+### 🌟 Highlighted Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amritanshu2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amritanshu2&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <a href="https://github.com/Amritanshu2/IntraPrep">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amritanshu2&repo=IntraPrep&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Amritanshu2/SMEConnectX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amritanshu2&repo=SMEConnectX&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritanshu2&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Languages" height="150"/>
+  <a href="https://github.com/Amritanshu2/FlexiRide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amritanshu2&repo=FlexiRide&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
 ---
